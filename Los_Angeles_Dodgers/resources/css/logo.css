@@ -1,0 +1,73 @@
+.LA-logo {
+  background-color: #2061fa;
+  display: inline-block;
+  bottom: 30%;
+  left: 30%;
+  width: 500px;
+  height: 500px;
+  position: relative;
+}
+
+div {
+  position: absolute;
+  background-color: white;
+}
+
+.L-top {
+  width: 125px;
+  height: 50px;
+  top: 10%;
+  left: 15%;
+}
+
+.L-left {
+  width: 50px;
+  height: 225px;
+  top: 20%;
+  left: 23%;
+}
+
+.L-bot {
+  width: 335px;
+  height: 50px;
+  top: 65%;
+  left: 15%;
+}
+
+.L-right {
+  width: 50px;
+  height: 100px;
+  top: 55%;
+  left: 75%;
+}
+
+/* A */
+.A-bot-left {
+  width: 110px;
+  height: 50px;
+  left: 23%;
+  top: 83%;
+}
+
+.A-bot-right {
+  width: 110px;
+  height: 50px;
+  left: 63%;
+  top: 83%;
+}
+
+.A-left {
+  height: 300px;
+  width: 50px;
+  top: 30%;
+  left: 38%;
+  transform: skew(-20deg, 0);
+}
+
+.A-right {
+  height: 300px;
+  width: 50px;
+  top: 30%;
+  left: 60%;
+  transform: skew(20deg, 0);
+}
