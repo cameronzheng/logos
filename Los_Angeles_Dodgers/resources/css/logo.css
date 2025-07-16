@@ -5,7 +5,7 @@
   left: 30%;
   width: 500px;
   height: 500px;
-  position: relative;
+  position: fixed;
 }
 
 div {
@@ -38,22 +38,22 @@ div {
   width: 50px;
   height: 100px;
   top: 55%;
-  left: 75%;
+  left: 73%;
 }
 
 /* A */
 .A-bot-left {
   width: 110px;
   height: 50px;
-  left: 23%;
-  top: 83%;
+  left: 24%;
+  top: 87%;
 }
 
 .A-bot-right {
   width: 110px;
   height: 50px;
-  left: 63%;
-  top: 83%;
+  left: 59%;
+  top: 87%;
 }
 
 .A-left {
@@ -61,13 +61,13 @@ div {
   width: 50px;
   top: 30%;
   left: 38%;
-  transform: skew(-20deg, 0);
+  transform: skew(-15deg, 0);
 }
 
 .A-right {
   height: 300px;
   width: 50px;
   top: 30%;
-  left: 60%;
-  transform: skew(20deg, 0);
+  left: 57%;
+  transform: skew(15deg, 0);
 }
