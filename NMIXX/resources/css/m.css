@@ -1,0 +1,83 @@
+.m-left, .m-right {
+  background-color: white;
+  width: 20px;
+  height: 250px;
+}
+
+.m-left-mid {
+  background-color: black;
+  height: 250px;
+}
+
+.m-left-mid-up-triangle { 
+  width: 0;
+  height: 0;
+  border: solid 10px;
+  border-color: black black white white;
+}
+
+.m-left-mid-mid-triangle { 
+  width: 0;
+  height: 0;
+  border: solid 10px;
+  border-color: white white white white;
+}
+
+.m-left-mid-bot-triangle { 
+  width: 0;
+  height: 0;
+  border: solid 10px;
+  border-color: white white black black;
+}
+
+.m-mid {
+  background-color: white;
+  height: 250px;
+}
+
+.m-mid-top {
+  width: 0;
+  height: 0;
+  border: solid 10px;
+  border-color: black;
+}
+
+.m-mid-mid {
+  width: 0;
+  height: 0;
+  border: solid 10px;
+  border-color: black white white white;
+}
+
+.m-mid-bot {
+  width: 0;
+  height: 0;
+  border: solid 10px;
+  border-color: white;
+}
+
+.m-mid-right {
+  background-color: black;
+  height: 250px;
+}
+
+.m-mid-right-up-triangle {
+  width: 0;
+  height: 0;
+  border: solid 10px;
+  border-color: black white white black;
+}
+
+.m-mid-right-mid-triangle {
+  width: 0;
+  height: 0;
+  border: solid 10px;
+  border-color: white white white white;
+}
+
+.m-mid-right-bot-triangle {
+  width: 0;
+  height: 0;
+  border: solid 10px;
+  border-color: white black black white;
+}

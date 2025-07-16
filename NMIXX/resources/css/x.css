@@ -1,0 +1,44 @@
+.x-side {
+  background-color: white;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.x-side-box {
+  width: 0;
+  height: 0;
+  border: solid 10px;
+  border-color: black;
+}
+
+.x-mid {
+  background-color: black;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.x-mid-up-triangle,
+.x-mid-mid-triangle,
+.x-mid-bot-triangle {
+  width: 0;
+  height: 0;
+  border: solid 10px;
+}
+
+.x-mid-up-triangle {
+  border-color: black black white white;
+}
+
+.x-mid-mid-triangle {
+  border-color: white;
+}
+
+.x-mid-bot-triangle {
+  border-color: white white black black;
+}
+

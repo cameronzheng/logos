@@ -1,0 +1,41 @@
+.n-left {
+  width: 20px;
+  height: 250px;
+  background-color: white;
+}
+
+.n-middle {
+  /* background-color: lightblue; */
+  /* display: flex;
+  flex-direction: column;
+  align-items: top;
+  justify-content: top; */
+  height: 250px;
+}
+
+.n-middle-up-triangle {
+  width: 0x;
+  height: 0px;
+  border: solid 10px;
+  border-color: black black white white;
+}
+
+.n-middle-mid-triangle {
+  width: 0x;
+  height: 0px;
+  border: solid 10px;
+  border-color: white white white white;
+}
+
+.n-middle-bot-triangle {
+  width: 0x;
+  height: 0px;
+  border: solid 10px;
+  border-color: white white black black;
+}
+
+.n-right {
+  width: 20px;
+  height: 250px;
+  background-color: white;
+}
